@@ -51,6 +51,18 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
+    <TextView
+        android:text="AnyWork"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textSize="36sp"
+        android:textStyle="normal|bold"
+        android:layout_alignBottom="@+id/btnLogin"
+        android:layout_alignRight="@+id/spinner1"
+        android:layout_alignEnd="@+id/spinner1" />
+
     <!--
     <Spinner
         android:id="@+id/spinner2"
