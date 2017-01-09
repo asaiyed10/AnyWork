@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnyWork</string>
+    <string name= "service_prompt">Please select a service</string>
+
+    <string-array name="services_array">
+        <item>Housekeeping</item>
+        <item>Childcare</item>
+        <item>Office Cleaning Service</item>
+        <item>Tutor</item>
+        <item>Handyman</item>
+    </string-array>
+</resources>
